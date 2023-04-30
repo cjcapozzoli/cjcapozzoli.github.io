@@ -19,6 +19,8 @@ $ use git commit -m "<name of commit- anything>"
 to release this version (commit) to the world:
 $ git push origin main
 where main is the branch we are on for now, and origin is the source we are releasing to
+or 
+$ git push
 
 you will need to put your github username, and personal token for the password
 
