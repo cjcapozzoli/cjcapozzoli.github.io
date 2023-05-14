@@ -8,13 +8,13 @@ need index.html
 
 ## Making changes:
 in the terminal:
-$ cd <directory to local files>
+$ cd \<directory to local files>
 
-use . for all new files, or just put <filename> for a specific file
+use . for all new files, or just put \<filename> for a specific file
 $ git add . 
 
 when you're ready to put all the changes to a version:
-$ use git commit -m "<name of commit- anything>"
+$ use git commit -m "\<name of commit- anything>"
 
 to release this version to the world:
 $ git push origin main
