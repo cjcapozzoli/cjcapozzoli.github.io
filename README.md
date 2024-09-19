@@ -33,4 +33,4 @@ Switching users:
 
 $ git config --global user.name "cjcapozzoli"
 $ git config --global user.email "\<youremail\@email.com>"
-When pushing, you will be asked for your password or personal token for password.
+When pushing, you will be asked for your person token.
