@@ -34,3 +34,7 @@ Switching users:
 $ git config --global user.name "cjcapozzoli"
 $ git config --global user.email "\<youremail\@email.com>"
 When pushing, you will be asked for your person token.
+
+## troubleshooting:
+git branch -M main
+git push -u origin main
